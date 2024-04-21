@@ -9,7 +9,7 @@ const asyncHandler=(requestHandler)=>{
 
 export {asyncHandler}
 
-
+//2nd method
 
 // const ayncHandler=(fn)=>async(req,res,next)=>{
 //     try{
